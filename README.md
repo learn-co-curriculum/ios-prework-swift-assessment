@@ -9,7 +9,7 @@ In your AppDelegate.swift file's `application:didFinishLaunchingWithOptions:` me
 
 * An empty array of type `Int` called  `numbersArray`
 * An empty array of type `String` called `lettersArray`
-* An empty dictionary called `alphabetDictionary`
+* An empty dictionary called `alphabetDictionary` of type `[Int : String]`
 
 Write the following functions (we'll define the body in a bit):
 
