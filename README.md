@@ -35,4 +35,4 @@ This method should return a dictionary that contains key-value pairs of numbers 
 Write a `print` statement in the `application:didFinishLaunchingWithOptions:` method after you've called your three other methods to print the entire contents of your final dictionary to the console.
 
 ### 7. Reassign your arrays
-Under the `print` statement, reassign `numbersArray` to the keys from `alphabetDictionary`. Create a new array, named `newLettersArray`, remove all objects from this array, and assign to it all the values retrieved by iterating over `alphabetDictionary`. With a single `print` statement, print both `numbersArray` and `newLettersArray` to the console, separated by a new line.
+Under the `print` statement, reassign `numbersArray` to the keys from `alphabetDictionary`. Create a new array of strings, named `newLettersArray`, remove all objects from this array, and assign to it all the values retrieved by iterating over `alphabetDictionary`. With a single `print` statement, print both `numbersArray` and `newLettersArray` to the console, separated by a new line.
