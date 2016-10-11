@@ -25,7 +25,7 @@ This method should return an array which contains 26 elements, the whole numbers
 
 ### 4. Implement `generateArrayOfLetters`
 This method should return an array which contains the 26 letters of the English alphabet, lowercase and in ascending order. Use the following array to complete this function:
-`"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z".`
+`"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"`
 
 ### 5. Implement `generateNumbersAndLettersDictionary`
 This method should return a dictionary that contains key-value pairs of numbers as keys and their corresponding letters as values by using the two provided arguments.
